@@ -1,2 +1,2 @@
 # status-check-test
-A repository used for testing the status-check application
+This is a repository used for testing the status-check application. 
