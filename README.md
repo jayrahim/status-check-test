@@ -1,4 +1,7 @@
 # status-check-test
-This is a repository used for testing the status-check application. 
 
 ## Tentative Plan
+A repository used for testing the status-check application.
+### Things to Consider for Later
+In the future, it may also support deployment requests. 
+
