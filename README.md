@@ -5,4 +5,4 @@ In the future, it may also support deployment requests.
 ### Suggesting new features
 
 ## New Feature
-- Testing ability to remove QA label when new commits are "committed".
+- Testing ability to remove QA label when new commits are pushed.
